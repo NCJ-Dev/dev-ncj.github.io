@@ -1,11 +1,11 @@
 ---
 ---
 
-@use "tokens";
-@use "variables";
-@use "reset";
-@use "base";
-@use "grid";
+@import "tokens";
+@import "variables";
+@import "reset";
+@import "base";
+@import "grid";
 
 header {
   position: sticky;
